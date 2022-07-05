@@ -6,7 +6,7 @@ this repo is only being used fro learning git and try fdifferent git commands.
 This is the second change that I am doing in the readme file.
 
 
-
+This is third change from github UI and my parent is the second change.
 
 
 
